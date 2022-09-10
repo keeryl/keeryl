@@ -2,15 +2,6 @@
 
 I started to study web development in order to have an ability to make my personal project in web. During educational process I realized that I enjoy coding and decided to make it my profession. I'm going to grow in frontend development, improve my skills and knowledge. 
 
-
-Contact me with
-
-https://career.habr.com/keeryl
-
-telegram: @kirillzy
-
-mail: 2309696@mail.ru
-
 My stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -22,3 +13,13 @@ My stack:
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+Contact me with
+
+https://career.habr.com/keeryl
+
+telegram: @kirillzy
+
+mail: 2309696@mail.ru
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
