@@ -18,9 +18,6 @@ I'm able to apply:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Pet projects:
-https://keeryl.github.io/russian-travel/index.html#
-
 Contact me with
 
 telegram: @kirillzy
