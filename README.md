@@ -5,24 +5,24 @@ I started to study web development in order to have an ability to make my person
 Pet projects:
 
 Notepad | React \
-https://main--genuine-cranachan-94be01.netlify.app/
-A notepad on React
+https://main--genuine-cranachan-94be01.netlify.app/ \
+A notepad on React\
 
-Movies explorer | HTML, CSS, React, Node
-https://github.com/keeryl/movies-explorer-frontend
-SPA for movies searching
+Movies explorer | HTML, CSS, React, Node \
+https://github.com/keeryl/movies-explorer-frontend \
+SPA for movies searching \
 
-Booking Form | React Typescript HTML CSS
-https://6651fed543d1d2c0927aa28c--silver-cascaron-df8464.netlify.app/
-Booking form
+Booking Form | React Typescript HTML CSS \
+https://6651fed543d1d2c0927aa28c--silver-cascaron-df8464.netlify.app/ \
+Booking form \
 
-Currency Converter | Svelte HTML CSS
-https://665201а1eЫd0552225fb9cb--dazzling-flan-19e157.netlify.app/
-Currency converter on Svelte
+Currency Converter | Svelte HTML CSS \
+https://665201а1eЫd0552225fb9cb--dazzling-flan-19e157.netlify.app/ \
+Currency converter on Svelte \
 
-Адаптивный сайт | HTML CSS
-https://keeryl.github.io/russian-travel/index.html
-Adaptive web-site 
+Адаптивный сайт | HTML CSS \
+https://keeryl.github.io/russian-travel/index.html \
+Adaptive web-site \
 
 My stack:
 
