@@ -2,6 +2,28 @@
 
 I started to study web development in order to have an ability to make my personal project in web. During educational process I realized that I enjoy coding and decided to make it my profession. I'm going to grow in frontend development, improve my skills and knowledge. 
 
+Pet projects:
+
+Notepad | React
+https://main--genuine-cranachan-94be01.netlify.app/
+A notepad on React
+
+Movies explorer | HTML, CSS, React, Node
+https://github.com/keeryl/movies-explorer-frontend
+SPA for movies searching
+
+Booking Form | React Typescript HTML CSS
+https://6651fed543d1d2c0927aa28c--silver-cascaron-df8464.netlify.app/
+Booking form
+
+Currency Converter | Svelte HTML CSS
+https://665201а1eЫd0552225fb9cb--dazzling-flan-19e157.netlify.app/
+Currency converter on Svelte
+
+Адаптивный сайт | HTML CSS
+https://keeryl.github.io/russian-travel/index.html
+Adaptive web-site 
+
 My stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
