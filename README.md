@@ -4,7 +4,7 @@ I started to study web development in order to have an ability to make my person
 
 Pet projects:
 
-Notepad | React /
+Notepad | React \
 https://main--genuine-cranachan-94be01.netlify.app/
 A notepad on React
 
